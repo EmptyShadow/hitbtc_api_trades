@@ -29,15 +29,15 @@ namespace Trades.src.Models
         /// <summary>
         /// Время сделки
         /// </summary>
-        public DateTime DateTime { get; set; }
+        public DateTime Timestamp { get; set; }
 
-        public Trades(int id, int price, int quantity, string side, DateTime dateTime)
+        public Trades(int id, int price, int quantity, string side, DateTime timestamp)
         {
             this.Id = id;
             this.Price = price;
             this.Quantity = quantity;
             this.Side = side;
-            this.DateTime = dateTime;
+            this.Timestamp = timestamp;
         }
     }
 }
