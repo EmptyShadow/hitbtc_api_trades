@@ -13,31 +13,31 @@ namespace Trades.src.Models
         /// <summary>
         /// Индитификатор
         /// </summary>
-        public int id;
+        public int Id { get; set; }
         /// <summary>
         /// Стоимость
         /// </summary>
-        public int price;
+        public int Price { get; set; }
         /// <summary>
         /// Количество
         /// </summary>
-        public int quantity;
+        public int Quantity { get; set; }
         /// <summary>
         /// Позиция
         /// </summary>
-        public string side;
+        public string Side { get; set; }
         /// <summary>
         /// Время сделки
         /// </summary>
-        public DateTime dateTime;
+        public DateTime DateTime { get; set; }
 
         public Trades(int id, int price, int quantity, string side, DateTime dateTime)
         {
-            this.id = id;
-            this.price = price;
-            this.quantity = quantity;
-            this.side = side;
-            this.dateTime = dateTime;
+            this.Id = id;
+            this.Price = price;
+            this.Quantity = quantity;
+            this.Side = side;
+            this.DateTime = dateTime;
         }
     }
 }
