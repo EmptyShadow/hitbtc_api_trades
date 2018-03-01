@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using Trades.src;
+using Trades.src.Controllers;
+using Trades.src.Models;
 
 namespace Trades
 {
@@ -6,7 +10,16 @@ namespace Trades
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MainAsync(args);
+            Console.Read();
+        }
+
+        static async void MainAsync(string[] args)
+        {
+            List<TradesModel> t = await TradesController.GetTradesByAsync("ETHBTC");
+
+            FileTrades.SaveListTrades("ETHBTC", t);
+            Console.Read();
         }
     }
 }

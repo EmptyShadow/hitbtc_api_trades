@@ -1,0 +1,11 @@
+D:\develop\c#\Trades\Trades\bin\Debug\netcoreapp2.0\Trades.deps.json
+D:\develop\c#\Trades\Trades\bin\Debug\netcoreapp2.0\Trades.runtimeconfig.json
+D:\develop\c#\Trades\Trades\bin\Debug\netcoreapp2.0\Trades.runtimeconfig.dev.json
+D:\develop\c#\Trades\Trades\bin\Debug\netcoreapp2.0\Trades.dll
+D:\develop\c#\Trades\Trades\bin\Debug\netcoreapp2.0\Trades.pdb
+D:\develop\c#\Trades\Trades\obj\Debug\netcoreapp2.0\Trades.csprojResolveAssemblyReference.cache
+D:\develop\c#\Trades\Trades\obj\Debug\netcoreapp2.0\Trades.csproj.CoreCompileInputs.cache
+D:\develop\c#\Trades\Trades\obj\Debug\netcoreapp2.0\Trades.AssemblyInfoInputs.cache
+D:\develop\c#\Trades\Trades\obj\Debug\netcoreapp2.0\Trades.AssemblyInfo.cs
+D:\develop\c#\Trades\Trades\obj\Debug\netcoreapp2.0\Trades.dll
+D:\develop\c#\Trades\Trades\obj\Debug\netcoreapp2.0\Trades.pdb
