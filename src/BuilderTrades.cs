@@ -14,11 +14,16 @@ namespace Trades.src
     /// </summary>
     class BuilderTrades
     {
-        public static List<TradesModel> GetTradesByJSON(string json)
+        /// <summary>
+        /// Получить сделки из строки в формате JSON
+        /// </summary>
+        /// <param name="json"></param>
+        /// <returns></returns>
+        public static List<Trade> GetTradesByJSON(string json)
         {
-            DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(List<TradesModel>));
+            DataContractJsonSerializer ser = new DataContractJsonSerializer(typeof(List<Trade>));
             MemoryStream stream = new MemoryStream(Encoding.UTF8.GetBytes(json));
-            List<TradesModel> objs = JsonConvert.DeserializeObject <List<TradesModel>>(json);
+            List<Trade> objs = JsonConvert.DeserializeObject <List<Trade>>(json);
             return objs; 
         }
     }

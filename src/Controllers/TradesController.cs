@@ -19,7 +19,7 @@ namespace Trades.src.Controllers
         /// <param name="tool">Инструмент</param>
         /// <param name="parametrics">Параметры отбора</param>
         /// <returns></returns>
-        static public async System.Threading.Tasks.Task<List<TradesModel>> GetTradesByAsync(string tool, Dictionary<string, string> parametrics = null)
+        static public async System.Threading.Tasks.Task<List<Trade>> GetTradesByAsync(string tool, Dictionary<string, string> parametrics = null)
         {
             /// путь запроса к API
             string urlAPI = API_TRADES + tool + DictionatyToParamsURLReq(parametrics);
@@ -42,7 +42,7 @@ namespace Trades.src.Controllers
             /// Закрывает соединение с сервером
             response.Close();
 
-            List<TradesModel> trades = BuilderTrades.GetTradesByJSON(tradesJSON);
+            List<Trade> trades = BuilderTrades.GetTradesByJSON(tradesJSON);
 
             return trades;
         }

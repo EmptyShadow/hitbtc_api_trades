@@ -1,600 +1,602 @@
-id: 213383128;
-price: 0,080028;
-quantity: 0,039;
+id: 214263544;
+price: 0,078722;
+quantity: 0,01;
 side: sell;
-timestamp: 01.03.2018 20:39:03;
+timestamp: 02.03.2018 15:31:12;
 
-id: 213383127;
-price: 0,080029;
-quantity: 0,03;
-side: sell;
-timestamp: 01.03.2018 20:39:03;
-
-id: 213383126;
-price: 0,08005;
-quantity: 0,005;
-side: sell;
-timestamp: 01.03.2018 20:39:03;
-
-id: 213383034;
-price: 0,080026;
-quantity: 0,043;
-side: sell;
-timestamp: 01.03.2018 20:38:54;
-
-id: 213383008;
-price: 0,080015;
-quantity: 0,24;
-side: sell;
-timestamp: 01.03.2018 20:38:52;
-
-id: 213382997;
-price: 0,080061;
-quantity: 0,266;
+id: 214263535;
+price: 0,078725;
+quantity: 0,002;
 side: buy;
-timestamp: 01.03.2018 20:38:51;
+timestamp: 02.03.2018 15:31:12;
 
-id: 213382996;
-price: 0,08006;
-quantity: 0,03;
-side: buy;
-timestamp: 01.03.2018 20:38:51;
-
-id: 213382995;
-price: 0,08006;
-quantity: 0,236;
-side: buy;
-timestamp: 01.03.2018 20:38:51;
-
-id: 213382993;
-price: 0,080015;
-quantity: 0,044;
-side: sell;
-timestamp: 01.03.2018 20:38:51;
-
-id: 213382992;
-price: 0,080016;
-quantity: 0,03;
-side: sell;
-timestamp: 01.03.2018 20:38:51;
-
-id: 213382975;
-price: 0,080047;
-quantity: 0,032;
-side: sell;
-timestamp: 01.03.2018 20:38:50;
-
-id: 213382856;
-price: 0,080048;
-quantity: 0,788;
-side: buy;
-timestamp: 01.03.2018 20:38:36;
-
-id: 213382770;
-price: 0,080062;
-quantity: 0,005;
-side: sell;
-timestamp: 01.03.2018 20:38:30;
-
-id: 213382764;
-price: 0,080053;
-quantity: 0,102;
-side: sell;
-timestamp: 01.03.2018 20:38:29;
-
-id: 213382746;
-price: 0,080064;
-quantity: 21,434;
-side: buy;
-timestamp: 01.03.2018 20:38:28;
-
-id: 213382724;
-price: 0,080052;
-quantity: 0,082;
-side: sell;
-timestamp: 01.03.2018 20:38:26;
-
-id: 213382719;
-price: 0,080051;
-quantity: 0,027;
-side: sell;
-timestamp: 01.03.2018 20:38:26;
-
-id: 213382681;
-price: 0,080084;
-quantity: 0,001;
-side: buy;
-timestamp: 01.03.2018 20:38:24;
-
-id: 213382642;
-price: 0,080067;
-quantity: 25,927;
-side: sell;
-timestamp: 01.03.2018 20:38:22;
-
-id: 213382591;
-price: 0,080049;
-quantity: 0,027;
-side: sell;
-timestamp: 01.03.2018 20:38:20;
-
-id: 213382570;
-price: 0,080068;
-quantity: 48,577;
-side: sell;
-timestamp: 01.03.2018 20:38:18;
-
-id: 213382542;
-price: 0,080048;
-quantity: 0,296;
-side: sell;
-timestamp: 01.03.2018 20:38:17;
-
-id: 213382520;
-price: 0,080056;
-quantity: 0,005;
-side: sell;
-timestamp: 01.03.2018 20:38:15;
-
-id: 213382420;
-price: 0,080068;
-quantity: 0,005;
-side: buy;
-timestamp: 01.03.2018 20:38:04;
-
-id: 213382419;
-price: 0,080067;
-quantity: 0,03;
-side: buy;
-timestamp: 01.03.2018 20:38:04;
-
-id: 213382332;
-price: 0,080081;
-quantity: 0,005;
-side: sell;
-timestamp: 01.03.2018 20:37:55;
-
-id: 213382331;
-price: 0,080082;
-quantity: 0,005;
-side: sell;
-timestamp: 01.03.2018 20:37:55;
-
-id: 213381881;
-price: 0,080086;
-quantity: 0,001;
-side: buy;
-timestamp: 01.03.2018 20:37:16;
-
-id: 213381880;
-price: 0,080086;
-quantity: 1,423;
-side: buy;
-timestamp: 01.03.2018 20:37:16;
-
-id: 213381831;
-price: 0,080091;
-quantity: 0,03;
-side: sell;
-timestamp: 01.03.2018 20:37:13;
-
-id: 213381830;
-price: 0,080091;
-quantity: 0,001;
-side: sell;
-timestamp: 01.03.2018 20:37:13;
-
-id: 213381829;
-price: 0,080093;
-quantity: 0,167;
-side: sell;
-timestamp: 01.03.2018 20:37:13;
-
-id: 213381828;
-price: 0,080096;
-quantity: 1,333;
-side: sell;
-timestamp: 01.03.2018 20:37:13;
-
-id: 213381827;
-price: 0,080096;
-quantity: 0,236;
-side: sell;
-timestamp: 01.03.2018 20:37:13;
-
-id: 213381724;
-price: 0,080124;
+id: 214263534;
+price: 0,078725;
 quantity: 0,003;
 side: buy;
-timestamp: 01.03.2018 20:37:02;
+timestamp: 02.03.2018 15:31:12;
 
-id: 213381703;
-price: 0,080103;
-quantity: 0,004;
+id: 214263520;
+price: 0,078721;
+quantity: 0,03;
 side: buy;
-timestamp: 01.03.2018 20:37:00;
+timestamp: 02.03.2018 15:31:10;
 
-id: 213381696;
-price: 0,080093;
-quantity: 0,005;
-side: buy;
-timestamp: 01.03.2018 20:36:59;
-
-id: 213381691;
-price: 0,0801;
-quantity: 0,3;
-side: buy;
-timestamp: 01.03.2018 20:36:59;
-
-id: 213381675;
-price: 0,080098;
-quantity: 0,004;
-side: buy;
-timestamp: 01.03.2018 20:36:57;
-
-id: 213381673;
-price: 0,080097;
-quantity: 0,104;
-side: buy;
-timestamp: 01.03.2018 20:36:57;
-
-id: 213381650;
-price: 0,080051;
-quantity: 0,434;
+id: 214263451;
+price: 0,078729;
+quantity: 0,538;
 side: sell;
-timestamp: 01.03.2018 20:36:55;
+timestamp: 02.03.2018 15:31:06;
 
-id: 213381627;
-price: 0,080064;
-quantity: 0,005;
-side: buy;
-timestamp: 01.03.2018 20:36:53;
-
-id: 213381615;
-price: 0,080047;
-quantity: 0,032;
-side: buy;
-timestamp: 01.03.2018 20:36:52;
-
-id: 213381596;
-price: 0,080043;
-quantity: 0,123;
-side: buy;
-timestamp: 01.03.2018 20:36:50;
-
-id: 213381516;
-price: 0,080032;
-quantity: 0,009;
-side: buy;
-timestamp: 01.03.2018 20:36:45;
-
-id: 213381515;
-price: 0,080031;
-quantity: 0,021;
-side: buy;
-timestamp: 01.03.2018 20:36:45;
-
-id: 213381493;
-price: 0,080033;
-quantity: 0,016;
-side: buy;
-timestamp: 01.03.2018 20:36:44;
-
-id: 213381491;
-price: 0,080034;
-quantity: 0,009;
-side: buy;
-timestamp: 01.03.2018 20:36:44;
-
-id: 213381444;
-price: 0,080011;
-quantity: 0,209;
+id: 214263450;
+price: 0,07873;
+quantity: 0,076;
 side: sell;
-timestamp: 01.03.2018 20:36:41;
+timestamp: 02.03.2018 15:31:06;
 
-id: 213381443;
-price: 0,080016;
+id: 214263449;
+price: 0,078738;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:06;
+
+id: 214263448;
+price: 0,078739;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:06;
+
+id: 214263447;
+price: 0,07874;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:06;
+
+id: 214263446;
+price: 0,078741;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:06;
+
+id: 214263445;
+price: 0,078741;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:06;
+
+id: 214263444;
+price: 0,078742;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:06;
+
+id: 214263443;
+price: 0,078742;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:06;
+
+id: 214263438;
+price: 0,078743;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:06;
+
+id: 214263434;
+price: 0,078744;
 quantity: 0,03;
 side: sell;
-timestamp: 01.03.2018 20:36:41;
+timestamp: 02.03.2018 15:31:06;
 
-id: 213381442;
-price: 0,080021;
-quantity: 0,158;
+id: 214263402;
+price: 0,078754;
+quantity: 0,169;
 side: sell;
-timestamp: 01.03.2018 20:36:41;
+timestamp: 02.03.2018 15:31:03;
 
-id: 213381440;
-price: 0,080021;
-quantity: 0,065;
+id: 214263400;
+price: 0,078757;
+quantity: 0,002;
 side: sell;
-timestamp: 01.03.2018 20:36:41;
+timestamp: 02.03.2018 15:31:03;
 
-id: 213381434;
-price: 0,080021;
-quantity: 0,013;
+id: 214263399;
+price: 0,078759;
+quantity: 0,01;
 side: sell;
-timestamp: 01.03.2018 20:36:41;
+timestamp: 02.03.2018 15:31:03;
 
-id: 213381346;
-price: 0,080044;
-quantity: 0,059;
+id: 214263369;
+price: 0,078764;
+quantity: 5,336;
 side: buy;
-timestamp: 01.03.2018 20:36:35;
+timestamp: 02.03.2018 15:31:01;
 
-id: 213381343;
-price: 0,080045;
+id: 214263368;
+price: 0,078757;
+quantity: 2,295;
+side: buy;
+timestamp: 02.03.2018 15:31:01;
+
+id: 214263367;
+price: 0,078757;
+quantity: 0,38;
+side: buy;
+timestamp: 02.03.2018 15:31:01;
+
+id: 214263360;
+price: 0,078751;
+quantity: 6,476;
+side: sell;
+timestamp: 02.03.2018 15:31:00;
+
+id: 214263359;
+price: 0,078753;
+quantity: 6,476;
+side: sell;
+timestamp: 02.03.2018 15:31:00;
+
+id: 214263358;
+price: 0,078754;
+quantity: 0,02;
+side: sell;
+timestamp: 02.03.2018 15:31:00;
+
+id: 214263354;
+price: 0,078756;
+quantity: 0,005;
+side: sell;
+timestamp: 02.03.2018 15:31:00;
+
+id: 214263208;
+price: 0,078757;
+quantity: 0,004;
+side: buy;
+timestamp: 02.03.2018 15:30:48;
+
+id: 214263207;
+price: 0,078757;
+quantity: 0,001;
+side: buy;
+timestamp: 02.03.2018 15:30:48;
+
+id: 214263087;
+price: 0,078756;
+quantity: 0,005;
+side: sell;
+timestamp: 02.03.2018 15:30:38;
+
+id: 214262991;
+price: 0,078756;
+quantity: 0,005;
+side: sell;
+timestamp: 02.03.2018 15:30:30;
+
+id: 214262890;
+price: 0,078757;
+quantity: 0,004;
+side: buy;
+timestamp: 02.03.2018 15:30:23;
+
+id: 214262845;
+price: 0,078755;
+quantity: 3,773;
+side: buy;
+timestamp: 02.03.2018 15:30:20;
+
+id: 214262779;
+price: 0,078755;
 quantity: 0,002;
 side: buy;
-timestamp: 01.03.2018 20:36:35;
+timestamp: 02.03.2018 15:30:15;
 
-id: 213381341;
-price: 0,080046;
+id: 214262665;
+price: 0,078757;
+quantity: 0,005;
+side: sell;
+timestamp: 02.03.2018 15:30:06;
+
+id: 214262599;
+price: 0,078757;
+quantity: 0,005;
+side: sell;
+timestamp: 02.03.2018 15:30:00;
+
+id: 214262515;
+price: 0,078763;
+quantity: 0,127;
+side: buy;
+timestamp: 02.03.2018 15:29:52;
+
+id: 214262358;
+price: 0,07877;
+quantity: 0,127;
+side: sell;
+timestamp: 02.03.2018 15:29:39;
+
+id: 214262357;
+price: 0,078771;
+quantity: 0,015;
+side: buy;
+timestamp: 02.03.2018 15:29:39;
+
+id: 214262348;
+price: 0,07877;
+quantity: 0,236;
+side: sell;
+timestamp: 02.03.2018 15:29:38;
+
+id: 214262304;
+price: 0,078781;
+quantity: 0,01;
+side: sell;
+timestamp: 02.03.2018 15:29:37;
+
+id: 214262303;
+price: 0,078781;
+quantity: 0,005;
+side: sell;
+timestamp: 02.03.2018 15:29:37;
+
+id: 214262219;
+price: 0,078785;
 quantity: 0,002;
 side: buy;
-timestamp: 01.03.2018 20:36:35;
+timestamp: 02.03.2018 15:29:31;
 
-id: 213381335;
-price: 0,080046;
-quantity: 0,106;
+id: 214262169;
+price: 0,07881;
+quantity: 0,076;
 side: buy;
-timestamp: 01.03.2018 20:36:34;
+timestamp: 02.03.2018 15:29:26;
 
-id: 213381309;
-price: 0,080059;
-quantity: 0,042;
+id: 214262168;
+price: 0,078808;
+quantity: 0,127;
 side: buy;
-timestamp: 01.03.2018 20:36:33;
+timestamp: 02.03.2018 15:29:26;
 
-id: 213381308;
-price: 0,080059;
-quantity: 0,016;
+id: 214262167;
+price: 0,078805;
+quantity: 1,733;
 side: buy;
-timestamp: 01.03.2018 20:36:33;
+timestamp: 02.03.2018 15:29:26;
 
-id: 213381305;
-price: 0,08006;
-quantity: 0,124;
+id: 214262166;
+price: 0,0788;
+quantity: 0,004;
 side: buy;
-timestamp: 01.03.2018 20:36:33;
+timestamp: 02.03.2018 15:29:26;
 
-id: 213381296;
-price: 0,080061;
-quantity: 0,044;
+id: 214262158;
+price: 0,078775;
+quantity: 0,315;
+side: sell;
+timestamp: 02.03.2018 15:29:25;
+
+id: 214262131;
+price: 0,078796;
+quantity: 0,01;
 side: buy;
-timestamp: 01.03.2018 20:36:33;
+timestamp: 02.03.2018 15:29:24;
 
-id: 213381293;
-price: 0,080062;
-quantity: 0,256;
+id: 214262128;
+price: 0,078785;
+quantity: 0,006;
 side: buy;
-timestamp: 01.03.2018 20:36:33;
+timestamp: 02.03.2018 15:29:24;
 
-id: 213381287;
-price: 0,080063;
-quantity: 0,04;
+id: 214262127;
+price: 0,078779;
+quantity: 0,003;
 side: buy;
-timestamp: 01.03.2018 20:36:33;
+timestamp: 02.03.2018 15:29:24;
 
-id: 213381277;
-price: 0,080036;
+id: 214262114;
+price: 0,078777;
+quantity: 0,443;
+side: sell;
+timestamp: 02.03.2018 15:29:23;
+
+id: 214262113;
+price: 0,078779;
 quantity: 0,012;
 side: sell;
-timestamp: 01.03.2018 20:36:32;
+timestamp: 02.03.2018 15:29:23;
 
-id: 213381244;
-price: 0,080051;
-quantity: 0,005;
+id: 214262046;
+price: 0,078771;
+quantity: 0,111;
 side: sell;
-timestamp: 01.03.2018 20:36:29;
+timestamp: 02.03.2018 15:29:18;
 
-id: 213381226;
-price: 0,080047;
-quantity: 0,042;
+id: 214262042;
+price: 0,078771;
+quantity: 0,003;
 side: sell;
-timestamp: 01.03.2018 20:36:28;
+timestamp: 02.03.2018 15:29:18;
 
-id: 213381225;
-price: 0,080074;
-quantity: 0,042;
+id: 214261956;
+price: 0,078786;
+quantity: 0,13;
 side: sell;
-timestamp: 01.03.2018 20:36:28;
+timestamp: 02.03.2018 15:29:13;
 
-id: 213381218;
-price: 0,080074;
+id: 214261955;
+price: 0,078798;
+quantity: 0,01;
+side: sell;
+timestamp: 02.03.2018 15:29:13;
+
+id: 214261941;
+price: 0,078798;
+quantity: 0,006;
+side: sell;
+timestamp: 02.03.2018 15:29:12;
+
+id: 214261927;
+price: 0,078798;
+quantity: 0,01;
+side: sell;
+timestamp: 02.03.2018 15:29:11;
+
+id: 214261866;
+price: 0,078775;
+quantity: 0,041;
+side: sell;
+timestamp: 02.03.2018 15:29:05;
+
+id: 214261854;
+price: 0,078775;
+quantity: 0,044;
+side: sell;
+timestamp: 02.03.2018 15:29:05;
+
+id: 214261850;
+price: 0,078791;
+quantity: 0,01;
+side: buy;
+timestamp: 02.03.2018 15:29:05;
+
+id: 214261775;
+price: 0,07879;
 quantity: 0,019;
-side: buy;
-timestamp: 01.03.2018 20:36:27;
-
-id: 213381213;
-price: 0,080074;
-quantity: 0,217;
-side: buy;
-timestamp: 01.03.2018 20:36:27;
-
-id: 213381188;
-price: 0,080043;
-quantity: 1,706;
 side: sell;
-timestamp: 01.03.2018 20:36:25;
+timestamp: 02.03.2018 15:29:00;
 
-id: 213381187;
-price: 0,080044;
-quantity: 0,106;
+id: 214261772;
+price: 0,07879;
+quantity: 0,014;
 side: sell;
-timestamp: 01.03.2018 20:36:25;
+timestamp: 02.03.2018 15:29:00;
 
-id: 213381186;
-price: 0,080047;
-quantity: 0,032;
-side: sell;
-timestamp: 01.03.2018 20:36:25;
-
-id: 213381185;
-price: 0,080057;
-quantity: 0,334;
-side: sell;
-timestamp: 01.03.2018 20:36:25;
-
-id: 213381173;
-price: 0,080071;
-quantity: 0,045;
-side: buy;
-timestamp: 01.03.2018 20:36:25;
-
-id: 213381172;
-price: 0,080071;
-quantity: 0,005;
-side: buy;
-timestamp: 01.03.2018 20:36:25;
-
-id: 213381171;
-price: 0,08007;
-quantity: 0,027;
-side: buy;
-timestamp: 01.03.2018 20:36:25;
-
-id: 213381167;
-price: 0,080067;
-quantity: 0,092;
-side: sell;
-timestamp: 01.03.2018 20:36:25;
-
-id: 213380902;
-price: 0,080061;
-quantity: 0,427;
-side: sell;
-timestamp: 01.03.2018 20:36:10;
-
-id: 213380886;
-price: 0,080061;
-quantity: 0,573;
-side: sell;
-timestamp: 01.03.2018 20:36:09;
-
-id: 213380853;
-price: 0,080063;
+id: 214261771;
+price: 0,07879;
 quantity: 0,005;
 side: sell;
-timestamp: 01.03.2018 20:36:06;
+timestamp: 02.03.2018 15:29:00;
 
-id: 213380522;
-price: 0,080069;
-quantity: 0,008;
+id: 214261764;
+price: 0,0788;
+quantity: 0,001;
 side: buy;
-timestamp: 01.03.2018 20:35:40;
+timestamp: 02.03.2018 15:29:00;
 
-id: 213380492;
-price: 0,080061;
-quantity: 0,13;
+id: 214261761;
+price: 0,078782;
+quantity: 0,019;
 side: sell;
-timestamp: 01.03.2018 20:35:37;
+timestamp: 02.03.2018 15:29:00;
 
-id: 213380491;
-price: 0,080068;
-quantity: 0,13;
+id: 214261759;
+price: 0,078782;
+quantity: 0,019;
 side: sell;
-timestamp: 01.03.2018 20:35:37;
+timestamp: 02.03.2018 15:29:00;
 
-id: 213380484;
-price: 0,080068;
-quantity: 0,225;
+id: 214261747;
+price: 0,0788;
+quantity: 0,105;
 side: sell;
-timestamp: 01.03.2018 20:35:37;
+timestamp: 02.03.2018 15:28:59;
 
-id: 213380483;
-price: 0,080068;
-quantity: 0,005;
+id: 214261722;
+price: 0,078806;
+quantity: 0,126;
+side: buy;
+timestamp: 02.03.2018 15:28:57;
+
+id: 214261690;
+price: 0,07878;
+quantity: 4,022;
+side: buy;
+timestamp: 02.03.2018 15:28:55;
+
+id: 214261689;
+price: 0,078777;
+quantity: 0,01;
+side: buy;
+timestamp: 02.03.2018 15:28:55;
+
+id: 214261651;
+price: 0,078778;
+quantity: 0,015;
 side: sell;
-timestamp: 01.03.2018 20:35:37;
+timestamp: 02.03.2018 15:28:53;
 
-id: 213380445;
-price: 0,080091;
-quantity: 0,124;
+id: 214261626;
+price: 0,078772;
+quantity: 0,015;
+side: sell;
+timestamp: 02.03.2018 15:28:51;
+
+id: 214261612;
+price: 0,07878;
+quantity: 5,336;
 side: buy;
-timestamp: 01.03.2018 20:35:34;
+timestamp: 02.03.2018 15:28:50;
 
-id: 213380437;
-price: 0,080091;
-quantity: 0,005;
+id: 214261590;
+price: 0,078772;
+quantity: 0,003;
 side: buy;
-timestamp: 01.03.2018 20:35:33;
+timestamp: 02.03.2018 15:28:48;
 
-id: 213380405;
-price: 0,080091;
-quantity: 0,009;
-side: buy;
-timestamp: 01.03.2018 20:35:31;
-
-id: 213380404;
-price: 0,08008;
-quantity: 0,005;
-side: buy;
-timestamp: 01.03.2018 20:35:31;
-
-id: 213380344;
-price: 0,080088;
-quantity: 0,146;
-side: buy;
-timestamp: 01.03.2018 20:35:26;
-
-id: 213380343;
-price: 0,080088;
-quantity: 0,145;
-side: buy;
-timestamp: 01.03.2018 20:35:26;
-
-id: 213380333;
-price: 0,080088;
+id: 214261581;
+price: 0,078756;
 quantity: 0,022;
 side: buy;
-timestamp: 01.03.2018 20:35:26;
+timestamp: 02.03.2018 15:28:48;
 
-id: 213380331;
-price: 0,080088;
-quantity: 0,014;
-side: buy;
-timestamp: 01.03.2018 20:35:26;
-
-id: 213380319;
-price: 0,08009;
+id: 214261577;
+price: 0,078756;
 quantity: 0,002;
 side: buy;
-timestamp: 01.03.2018 20:35:25;
+timestamp: 02.03.2018 15:28:48;
 
-id: 213380301;
-price: 0,080087;
-quantity: 0,056;
-side: buy;
-timestamp: 01.03.2018 20:35:23;
+id: 214261530;
+price: 0,078772;
+quantity: 0,005;
+side: sell;
+timestamp: 02.03.2018 15:28:45;
 
-id: 213380300;
-price: 0,080086;
-quantity: 0,009;
-side: buy;
-timestamp: 01.03.2018 20:35:23;
+id: 214261516;
+price: 0,078779;
+quantity: 4,23;
+side: sell;
+timestamp: 02.03.2018 15:28:44;
 
-id: 213380299;
-price: 0,080087;
-quantity: 0,066;
-side: buy;
-timestamp: 01.03.2018 20:35:23;
+id: 214261448;
+price: 0,078787;
+quantity: 0,127;
+side: sell;
+timestamp: 02.03.2018 15:28:39;
 
-id: 213380296;
-price: 0,080088;
-quantity: 0,06;
+id: 214261432;
+price: 0,078804;
+quantity: 0,001;
 side: buy;
-timestamp: 01.03.2018 20:35:23;
+timestamp: 02.03.2018 15:28:38;
 
-id: 213380292;
-price: 0,080089;
-quantity: 0,063;
+id: 214261428;
+price: 0,078781;
+quantity: 5,336;
 side: buy;
-timestamp: 01.03.2018 20:35:23;
+timestamp: 02.03.2018 15:28:37;
 
-id: 213380284;
-price: 0,08009;
-quantity: 0,244;
+id: 214261375;
+price: 0,078791;
+quantity: 0,017;
 side: buy;
-timestamp: 01.03.2018 20:35:22;
+timestamp: 02.03.2018 15:28:34;
+
+id: 214261369;
+price: 0,078791;
+quantity: 0,012;
+side: buy;
+timestamp: 02.03.2018 15:28:34;
+
+id: 214261343;
+price: 0,078785;
+quantity: 0,04;
+side: buy;
+timestamp: 02.03.2018 15:28:31;
+
+id: 214261342;
+price: 0,078781;
+quantity: 0,03;
+side: buy;
+timestamp: 02.03.2018 15:28:31;
+
+id: 214261341;
+price: 0,078773;
+quantity: 0,022;
+side: buy;
+timestamp: 02.03.2018 15:28:31;
+
+id: 214261328;
+price: 0,078772;
+quantity: 0,448;
+side: sell;
+timestamp: 02.03.2018 15:28:30;
+
+id: 214261327;
+price: 0,078772;
+quantity: 0,005;
+side: sell;
+timestamp: 02.03.2018 15:28:30;
+
+id: 214261326;
+price: 0,078772;
+quantity: 0,55;
+side: sell;
+timestamp: 02.03.2018 15:28:30;
+
+id: 214261321;
+price: 0,078772;
+quantity: 0,022;
+side: sell;
+timestamp: 02.03.2018 15:28:30;
+
+id: 214261281;
+price: 0,078772;
+quantity: 0,035;
+side: sell;
+timestamp: 02.03.2018 15:28:28;
+
+id: 214261210;
+price: 0,078773;
+quantity: 0,697;
+side: sell;
+timestamp: 02.03.2018 15:28:23;
+
+id: 214261209;
+price: 0,078774;
+quantity: 0,169;
+side: sell;
+timestamp: 02.03.2018 15:28:23;
+
+id: 214261208;
+price: 0,078778;
+quantity: 0,127;
+side: sell;
+timestamp: 02.03.2018 15:28:23;
+
+id: 214261207;
+price: 0,078779;
+quantity: 0,03;
+side: sell;
+timestamp: 02.03.2018 15:28:23;
+
+id: 214261202;
+price: 0,07878;
+quantity: 0,03;
+side: sell;
+timestamp: 02.03.2018 15:28:23;
+
+id: 214261131;
+price: 0,078807;
+quantity: 5,09;
+side: sell;
+timestamp: 02.03.2018 15:28:19;
+
+id: 214261128;
+price: 0,078815;
+quantity: 0,526;
+side: sell;
+timestamp: 02.03.2018 15:28:19;
+
+id: 214261076;
+price: 0,078804;
+quantity: 0,003;
+side: buy;
+timestamp: 02.03.2018 15:28:13;
+
+id: 214260951;
+price: 0,078789;
+quantity: 0,002;
+side: sell;
+timestamp: 02.03.2018 15:28:04;
+
+01.03.2018 23:53:33;
 

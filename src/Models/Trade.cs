@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Runtime.Serialization;
+using MySql.Data.MySqlClient;
 
 namespace Trades.src.Models
 {
@@ -9,7 +10,7 @@ namespace Trades.src.Models
     /// Модель сделки
     /// </summary>
     [DataContract]
-    public class TradesModel
+    public class Trade
     {
         /// <summary>
         /// Индитификатор
@@ -37,7 +38,7 @@ namespace Trades.src.Models
         [DataMember]
         public DateTime timestamp { get; set; }
 
-        public TradesModel(int id, int price, int quantity, string side, DateTime timestamp)
+        public Trade(int id, int price, int quantity, string side, DateTime timestamp)
         {
             this.id = id;
             this.price = price;
@@ -46,7 +47,7 @@ namespace Trades.src.Models
             this.timestamp = timestamp;
         }
 
-        public TradesModel() { }
+        public Trade() { }
 
         public override string ToString()
         {
@@ -56,6 +57,18 @@ namespace Trades.src.Models
             s += "quantity: " + quantity.ToString() + end;
             s += "side: " + side.ToString() + end;
             s += "timestamp: " + timestamp.ToString() + end;
+            return s;
+        }
+
+        public string String()
+        {
+            string end = ", ";
+            string s = id.ToString() + end;
+            s += price.ToString() + end;
+            s += quantity.ToString() + end;
+            s += side.ToString() + end;
+            s += "'" + timestamp.ToUniversalTime().ToString() + "'";
+            //s = s.Replace(" ", "");
             return s;
         }
     }
